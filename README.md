@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x014B954aB0b6bdF882eB88DC15C4789F00D377ab
 ```
 
 Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
@@ -93,18 +93,9 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/Mnuralim)
+github : [laiziumaidi](https://github.com/laiziumaidi)
 
-twitter : @Izzycracker04
+twitter : @lvayaflishaidi
 
-telegram : @fitriay19
+telegram : @lvanyaflishaidi
 
-youtube : https://www.youtube.com/@IzzyTSN
-
-Ignore this!!!
-
-```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
-```
