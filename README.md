@@ -10,7 +10,6 @@ EVM :
 0x014B954aB0b6bdF882eB88DC15C4789F00D377ab
 ```
 
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 
 ## Steps
 
